@@ -1,11 +1,11 @@
 {
   "name": "project-euler",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a javascript solution for euler project",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
-  "author": "",
+  "author": "Wenxin Shi",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^23.3.13",
