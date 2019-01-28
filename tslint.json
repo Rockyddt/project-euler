@@ -5,6 +5,8 @@
         "tslint-config-prettier"
     ],
     "jsRules": {},
-    "rules": {},
+    "rules": {
+        "indent": [true, "spaces", 4]
+    },
     "rulesDirectory": []
 }
